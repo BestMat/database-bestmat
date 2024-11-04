@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Hello World",
+    "date": {
+      "year": 2024,
+      "month": 8,
+      "day": 3,
+      "hours": 15,
+      "minutes": 8,
+      "seconds": 48,
+      "millisec": 924
+    },
+    "randomChar": "Y"
+  },
+  {
+    "name": "JJJ",
+    "date": {
+      "year": 2024,
+      "month": 8,
+      "day": 3,
+      "hours": 15,
+      "minutes": 9,
+      "seconds": 1,
+      "millisec": 551
+    },
+    "randomChar": "Y"
+  }
+]
