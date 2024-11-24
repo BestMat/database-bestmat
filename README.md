@@ -1,5 +1,4 @@
 # Database API
-**Learn:** Node.js, TypeScript, Go, basically backend stuff
 database -> create
             update
             delete
